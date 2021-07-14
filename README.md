@@ -5,4 +5,4 @@ Grupo 6, semestre 2021-2
 Colaboradores: 
               *Cruz Ramirez Cesar Alejandro
               *Rojas Ruiz Luis Enrique
-              *Sandoval Juarez Luis Arturo
+              *Sandoval Juárez Luis Arturo
